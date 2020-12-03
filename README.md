@@ -154,6 +154,9 @@ print_board()
 print(result)
 ```
 
+### Sample Output
+<img src="tictactoe.png" alt="Sample Output">
+
 ### Developed by:
 <a href="https://github.com/ankush0939">Ankush Mishra</a>
 
